@@ -9,9 +9,9 @@ quiz_questions = [
         "answer": "B"
     },
     {
-        "question": "What is 2 + 2?",
-        "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
-        "answer": "B"
+        "question": "What is 10 * 3?",
+        "options": ["A) 30", "B) 40", "C) 50", "D) 22"],
+        "answer": "A"
     },
     {
         "question": "What is Date today ",
