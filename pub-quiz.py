@@ -13,6 +13,12 @@ quiz_questions = [
         "options": ["A) 3", "B) 4", "C) 5", "D) 22"],
         "answer": "B"
     },
+    {
+        "question": "What is Date today ",
+        "options": ["1) 12/11", "2) 11/11", "3) 09/08", "4) 22/04"],
+        "answer": "1"
+    },
+
     # Learners can add more questions here following the same structure
 ]
 
